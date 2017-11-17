@@ -11,7 +11,7 @@ It is a simulator for a bank ATM which has the following features :
   
 
 ## UML Diagram
-![uml](https://www.dropbox.com/s/jqrpt30h028ahwo/uml_atm.png)
+[![CLick to view UML Diagram](https://www.dropbox.com/s/33tw3wlgyuein9v/atm_uml.jpg)]
 
 ## Description of the classes
  - Bank – this class is the main class .  
