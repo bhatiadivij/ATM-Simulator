@@ -25,3 +25,8 @@ It is a simulator for a bank ATM which has the following features :
 ## How to run ?
 - Run the ```inout.java``` to find out the card number and pin.
 - Run the ```MachineLogin.java```
+
+# Get in touch:
+Email: [divijbhatia2@gmail.com](mailto:divijbhatia2@gmail.com), [mail@divijbhatia.in](mailto:mail@divijbhatia.in)     
+Website: [http://www.divijbhatia.in](http://www.divijbhatia.in)\
+Linkedin:  [bhatiadivij](https://www.linkedin.com/in/bhatiadivij)
